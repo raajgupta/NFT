@@ -1,0 +1,11 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Report",
+        "value": "2"
+      }
+    ],
+    "description": "Here is the patient report",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTxZ3sRLmN5srsTQGpgWkLtspghDAY1weKc4HP3YvrfYH",
+    "name": "John Doe"
+  }
